@@ -1,5 +1,5 @@
 {
-    "name": "qed/pretty_timestamps",
+    "name": "qedteam/pretty_timestamps",
     "type": "trait",
     "require": {
         "php": ">=5.3.0",
