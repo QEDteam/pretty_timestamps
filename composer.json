@@ -1,0 +1,21 @@
+{
+    "name": "qed/pretty_timestamps",
+    "type": "trait",
+    "require": {
+        "php": ">=5.3.0",
+        "nesbot/carbon": "^2.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "QED Team",
+            "email": "info@qedcode.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/prettyTimestamps"
+        }
+    }
+}
